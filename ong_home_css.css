@@ -1,0 +1,223 @@
+*
+{
+	margin: 10 10 10 10;
+	padding: 2 2 2 2;
+
+
+
+}
+
+row 
+{
+	position: relativ;
+	display: flex;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+
+#head_image
+{
+	width: 100%;
+	height:150px;
+
+}
+
+#images
+{
+	width: 100%;
+	height:230px;
+}
+
+
+#B-text
+{
+	background-color: blue ;
+}
+
+#aboutpic
+{
+
+	width: 300px;
+}
+
+
+#webname
+{
+	text-align: center ;
+
+}
+#mainPage
+{
+	height: 400px;
+	
+}
+
+Pages{
+	height: 100px;
+}
+
+footer
+{
+	background-color:58a6fd;
+}
+
+#footer a
+{
+	text-decoration: none;
+	color: white;
+}
+
+#foot.head_image
+{
+	margin-top: 500px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+#TB_holder
+{
+	background-color: 58a6fd;
+	border-radius: 5px;
+	height: 256px;
+	padding: 15 0 15 15;
+	margin-top: 20px;
+	float: left;
+}
+.T_buttons
+{
+	
+	height: 50px;
+	margin-right: 13px;
+	background-color: green;
+	border-radius: 5px;
+	margin-left: 13px;
+
+}
+.T-style
+{
+	text-decoration: none;
+	color: white;
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+	text-decoration: none;
+}
+#T-styling
+{
+	padding-left: 15px;
+	padding-top: 15px;
+	text-decoration: none;
+	color: white;
+}
+#B-text
+{
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.pace
+{
+  height:700px;
+}
+
+.space
+{
+	height: 25px;
+}
+
+
+div.myBox {
+overflow: scroll;
+	width: 100%;
+    height: 400px;
+overflow-x: hidden;
+}
+
+
+.fixed-nav-bar {
+  position: fixed;
+
+}
+
+.clicked {
+  background-color: red;
+}
+
+#b3{
+	 border: none;
+  text-decoration: none;
+  background-color: grey;
+}
+
+
+.css-carousel {
+	width: 100%;
+	height: 350px; /* Height of images */
+	position: relative;
+	overflow: hidden;
+}
+.css-carousel .css-img {
+	max-width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	-webkit-animation: css-carousel-fade 30s linear infinite;
+	-moz-animation: css-carousel-fade 30s linear infinite;
+	-ms-animation: css-carousel-fade 30s linear infinite;
+	animation: css-carousel-fade 30s linear infinite;
+}
+.css-carousel .css-img:nth-child(2) {
+	-webkit-animation-delay: 5s;
+	-moz-animation-delay: 5s;
+	-ms-animation-delay: 5s;
+	animation-delay: 5s;
+}
+.css-carousel .css-img:nth-child(3) {
+	-webkit-animation-delay: 10s;
+	-moz-animation-delay: 10s;
+	-ms-animation-delay: 10s;
+	animation-delay: 10s;
+}
+.css-carousel .css-img:nth-child(4) {
+	-webkit-animation-delay: 15s;
+	-moz-animation-delay: 15s;
+	-ms-animation-delay: 15s;
+	animation-delay: 15s;
+}
+.css-carousel .css-img:nth-child(5) {
+	-webkit-animation-delay: 20s;
+	-moz-animation-delay: 20s;
+	-ms-animation-delay: 20s;
+	animation-delay: 20s;
+}
+.css-carousel .css-img:nth-child(6) {
+	-webkit-animation-delay: 25s;
+	-moz-animation-delay: 25s;
+	-ms-animation-delay: 25s;
+	animation-delay: 25s;
+}
+
+@-webkit-keyframes css-carousel-fade {
+    0%, 20%, 100% { opacity: 0; }
+    5%, 15% { opacity: 1;}
+}
+@-moz-keyframes css-carousel-fade {
+    0%, 20%, 100% { opacity: 0; }
+    5%, 15% { opacity: 1;}
+}
+@-ms-keyframes css-carousel-fade {
+    0%, 20%, 100% { opacity: 0; }
+    5%, 15% { opacity: 1;}
+}
+@keyframes css-carousel-fade {
+	0%, 20%, 100% { opacity: 0; }
+	5%, 15% { opacity: 1;}
+}
+
+
