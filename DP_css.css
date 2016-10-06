@@ -1,0 +1,137 @@
+*
+{
+	margin: 10 10 10 10;
+	padding: 2 2 2 2;
+}
+
+.row 
+{
+	position: relative;
+	display: flex;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.col-1
+{
+	width: 8.33%
+}
+
+.col-2
+{
+	width: 16.67%;
+}
+
+.col-3
+{
+	width: 25%;
+}
+.col-4
+{
+	width: 33.33%;
+}
+
+.col-5
+{
+	width: 41.67%;
+}
+.col-6
+{
+	width: 50%;
+}
+.col-7
+{
+	width: 58.33%;
+}
+.col-8
+{
+     width: 66.67%;
+}
+.col-9
+{
+     width: 75%;
+}
+.col-10
+{
+	width: 83.33%;
+}
+
+.col-11
+{
+	width: 91.67%;
+
+}
+.col-12
+{
+	width: 100%;
+}
+
+#head_image
+{
+	width: 100%;
+	height:150px;
+}
+#webname
+{
+	text-align: center;
+}
+#mainPage
+{
+	height: 700px;
+	margin-top: 50px;
+}
+#blogborder
+{
+	margin-bottom: 50px;
+}
+#footer
+{
+	background-color: #008080;
+	
+}
+#footer a
+{
+	text-decoration: none;
+	color: white;
+}
+#TB_holder
+{
+	background-color: #008080;
+	border-radius: 5px;
+	height: 196px;
+	padding: 15 0 15 15;
+	margin-top: 20px;
+	float: left;
+}
+.T_buttons
+{
+	
+	height: 50px;
+	margin-right: 13px;
+
+	background-color: orange;
+	border-radius: 5px;
+	margin-left: 13px;
+
+}
+.T-style
+{
+	text-decoration: none;
+	color: white;
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-right: 2px;
+	padding-bottom: 5px;
+	text-decoration: none;
+}
+#T-styling
+{
+	padding-left: 15px;
+	padding-top: 15px;
+	text-decoration: none;
+	color: white;
+}
+#B-text
+{
+	margin-left: 30px;
+	margin-top: 20px;
+}
