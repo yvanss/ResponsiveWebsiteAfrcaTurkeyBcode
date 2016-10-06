@@ -17,3 +17,6 @@ $(document).ready(function(){
 function showDiv() {
    document.getElementById('welcomeDiv').style.display = "block";
 };
+
+
+// Instantiate the Bootstrap carousel
